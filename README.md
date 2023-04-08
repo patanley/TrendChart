@@ -32,7 +32,7 @@ I utilized Netflix data and restructured it to aggregate the count of movies and
 
 
 > 💡Libarries  
-> [![Matplotlib](https://img.shields.io/badge/-matplotlib-4E84C4?style=flat&logo=plotly&logoColor=white)](https://matplotlib.org/)
+> [![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
  [![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 
