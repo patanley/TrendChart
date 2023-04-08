@@ -1,20 +1,20 @@
 <h1 align="center" style="color:MediumSeaGreen;"> <b> Creating a Trend Chart in Python  </b></h1>
 
-
+![-----------------------------------------------------](https://github.com/patanley/TrendChart/blob/main/Images/rainbow.png)
 
 
 ## Overview[![](https://github.com/patanley/TrendChart/blob/main/Images/pin.svg)](#overview)
 
 A trend chart is a graphical representation that illustrates the changes in data over time. It is a type of line chart that displays the trend or pattern of a variable over a period of time.
  
+![-----------------------------------------------------](https://github.com/patanley/TrendChart/blob/main/Images/rainbow.png)
 
----
 
 ## Data[![](https://github.com/patanley/TrendChart/blob/main/Images/pin.svg)](#data)
 I utilized Netflix data and restructured it to aggregate the count of movies and TV shows on a yearly basis. Additionally, I employed the `plt.subplots()` function and incorporated some extra details to enhance the chart's clarity and comprehensibility.
 
+![-----------------------------------------------------](https://github.com/patanley/TrendChart/blob/main/Images/rainbow.png)
 
----
 
 ## Visualization[![](https://github.com/patanley/TrendChart/blob/main/Images/pin.svg)](#visualization)
 
@@ -22,9 +22,8 @@ I utilized Netflix data and restructured it to aggregate the count of movies and
 <div align="center"><a href="https://github.com/patanley/TrendChart/blob/main/Images/TrendChart.jpg"><img src="https://github.com/patanley/TrendChart/blob/main/Images/TrendChart.jpg" alt="IoT-to-Cloud (Nebula) network" style="width:70%;height:70%"/></a></div>
 
 
+![-----------------------------------------------------](https://github.com/patanley/TrendChart/blob/main/Images/rainbow.png)
 
-
----
 ## Technologies Used[![](https://github.com/patanley/TrendChart/blob/main/Images/pin.svg)](#more-than-embedded)
 
 > 💡Platform  
@@ -37,14 +36,13 @@ I utilized Netflix data and restructured it to aggregate the count of movies and
  [![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 
 
+![-----------------------------------------------------](https://github.com/patanley/TrendChart/blob/main/Images/rainbow.png)
 
-
----
 ## Installation and Usage[![](https://github.com/patanley/TrendChart/blob/main/Images/pin.svg)](#overview)
 
 Using the code `fig, ax = plt.subplots()` is recommended because it returns a tuple with the figure and axes objects assigned to the variables `fig` and `ax`, respectively. Although you can still create a chart without using this function, it offers more flexibility in terms of modifying the figure, such as adjusting the size of the chart to improve its appearance and saving the chart. With the `fig, ax` approach, you can make changes to the chart to enhance its visual impact.
 
----
+![-----------------------------------------------------](https://github.com/patanley/TrendChart/blob/main/Images/rainbow.png)
 
 **Follow me** at<br />
 [![Follow me on twitter](https://img.shields.io/twitter/follow/patanley.svg?style=social)](https://twitter.com/home) 
